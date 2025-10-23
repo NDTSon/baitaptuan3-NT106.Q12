@@ -2,8 +2,8 @@
 👨‍💻 Nhóm sinh viên thực hiện  
   22521251	Nguyễn Duy Thế Sơn  
   24520262	Nguyễn Tấn Danh  
-  24521230	Phan Lê Tuấn  
-  24521940 Hứa Thiện Nhân  
+  24521940	Phan Lê Tuấn
+  24521230  Hứa Thiện Nhân  
   22520973	Ngô Vũ Hạo Nguyên  
   
 📝 Mô tả bài tập  
